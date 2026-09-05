@@ -4,9 +4,10 @@ class DataKelompokPage extends StatelessWidget {
   const DataKelompokPage({super.key});
 
   final List<Map<String, String>> members = const [
-    {'nama': 'Anggota 1', 'nim': '123200001'},
-    {'nama': 'Anggota 2', 'nim': '123200002'},
-    {'nama': 'Anggota 3', 'nim': '123200003'},
+    {'nama': 'Muhammad Hasbi Assidiqi', 'nim': '124240135'},
+    {'nama': 'Muhammad Ridho Nadika', 'nim': '124240137'},
+    {'nama': 'Muhammad Ghaffari', 'nim': '124240090'},
+    {'nama': 'Laksana Bagus S. A. J.', 'nim': '124240188'},
   ];
 
   @override
